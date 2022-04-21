@@ -8,3 +8,9 @@ Build it with maven and run the war as if it was an standard jar:
 
 It will launch a JSF and Spring powered website that you can access at http://localhost:8080/ui/index.xhtml
 
+# Tasks
+- Add CRUD for entities with Apache Torque
+- Try to use JSF 2.1 with Springboot
+- Try to use Lombok (logs, constructors, fields...)
+- Try to use testcontainers for IntegrationTest (add to build process)
+- Remove unused dependencies in pom
